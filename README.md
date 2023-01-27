@@ -1,4 +1,4 @@
-# Praktikum-4
+# Tugas Praktikum 4
 ## Pemrograman Orientasi Objek
 
 ```sh
